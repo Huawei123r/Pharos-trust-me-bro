@@ -36,11 +36,11 @@ w3 = Web3(Web3.HTTPProvider(WEB3_PROVIDER))
 
 # Fancy Banner
 BANNER = f"""
-{Fore.CYAN}{Style.BRIGHT}🌠 PHAROS Fucet Fuck BOT - By Kazuah Auto Claim & Transfer 🌠
+{Fore.CYAN}{Style.BRIGHT}🌠 PHAROS Fucet Fuck BOT - By poopbots Auto Claim & Transfer 🌠
 {Fore.YELLOW}═══════════════════════════════════════════════
 {Fore.GREEN}🚀 Automates Pharos Fuck faucet claims
 {Fore.GREEN}💸 Transfers to single wallet from {WALLET_FILE}
-{Fore.BLUE}👨‍💻 Developed by: Edit Your Name Who want to Copy the Code Enjoy 
+{Fore.BLUE}👨‍💻 Developed by: Poopbot Enjoy 
 {Fore.YELLOW}═══════════════════════════════════════════════{Style.RESET_ALL}
 """
 
